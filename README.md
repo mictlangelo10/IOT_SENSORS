@@ -1,2 +1,5 @@
 # IOT_SENSORS
-Sensores hechos en clase
+
+SENSORES HECHOS EN CLASE
+Alumno: Miguel Ángel Hernández Solís
+Grupo: GDS0452
