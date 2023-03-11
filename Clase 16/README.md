@@ -1,5 +1,0 @@
-Esquema del RGB LED
-
-
-
-
